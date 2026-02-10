@@ -1,0 +1,15 @@
+# Pelican output
+output/
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDEs
+.vscode/
+.idea/
